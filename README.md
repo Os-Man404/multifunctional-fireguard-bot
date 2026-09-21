@@ -54,21 +54,23 @@ The robot uses:
 ## Demonstration Videos and GIF
 
 ### Fire Detection
-- ![Fire Detection](media/gifs/fire-detection-1.gif)
+![Fire Detection](media/gifs/fire-detection-1.gif)
 - [Fire Detection Video 1](media/videos/Fire_detection_1.mp4)
 - [Fire Detection Video 2](media/videos/Fire_detection_2.mp4)
 
 ### Line Following
-- ![Line Following](media/gifs/line-following.gif)
+![Line Following](media/gifs/line-following.gif)
 - [Line Following Video](media/videos/Line_Following.mp4)
 
 ### Obstacle Detection
-- ![Obstacle Detection](media/gifs/obstacle-detection-1.gif)
-- ![Yolo Navigation](media/gifs/yolo-obstacle-navigation.gif)
+![Obstacle Detection](media/gifs/obstacle-detection-1.gif)
 
 - [Obstacle Detection Video 1](media/videos/Obstacle_detection_1.mp4)
 - [Obstacle Detection Video 2](media/videos/Obstacle_detection_2.mp4)
 - [Obstacle Detection Video 3](media/videos/Obstacle_detection_3.mp4)
+
+ ![Yolo Navigation](media/gifs/yolo-obstacle-navigation.gif)
+
 - [YOLO Obstacle Detection Video](media/videos/Obstacle%20Detection%20With%20YOLO00018928%20ScreenCast.mov)
 
 ## Pin Information
