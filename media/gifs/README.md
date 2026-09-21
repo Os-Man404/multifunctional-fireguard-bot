@@ -16,5 +16,8 @@ Example Markdown:
 
 ```markdown
 ![Line Following](media/gifs/line-following.gif)
+![Fire Detection](media/gifs/fire-detection-1.gif)
+![Obstacle Detection](media/gifs/obstacle-detection.gif)
+![Yolo Navigation](media/gifs/yolo-navigation.gif)
 ```
 
