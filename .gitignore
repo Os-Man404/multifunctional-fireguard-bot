@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# YOLO and local model files
+*.pt
+runs/
+
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
