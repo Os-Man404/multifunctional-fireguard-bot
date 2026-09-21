@@ -45,7 +45,7 @@ The robot uses:
 
 ## System Diagram
 
-![System Diagram](hardware/diagram.png)
+![System Diagram](hardware/fireguard-real-component-wiring-diagram.png)
 
 ![Flowchart](hardware/flowchart.jpeg)
 
